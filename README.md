@@ -12,7 +12,7 @@
 
 **SENTINEL** is an indigenous, onboard **Drone Intrusion Detection System (Drone IDS)** built for PUSHPAK Grand Challenge 3 — *Security of Drones* (Techfest, IIT Bombay × VJTI, MeitY-funded). It continuously monitors UAV communication, navigation, and firmware integrity, and detects cyberattacks against a UAV in real time using a **two-layer hybrid detection architecture**: fast, explainable rule-based detectors as the primary layer, backed by an unsupervised ML anomaly detector as a safety net for unknown threats.
 
-[Architecture](#-architecture) • [Key Features](#-key-features) • [Results](#-validated-results) • [Quickstart](#-quickstart) • [Project Structure](#-project-structure) • [Live Console](#-live-console-demo)
+[Architecture](#-architecture) • [Key Features](#-key-features) • [Results](#-validated-results) • [Quickstart](#-quickstart) • [Project Structure](#-project-structure) • [Live Console](#-live-console-demo) • [Author](#-author)
 
 ---
 
@@ -204,6 +204,26 @@ drone-ids/
 ## 🎯 Grand Challenge Alignment
 
 Built directly against the Objective 2 (Drone IDS) evaluation criteria: detection accuracy across attack scenarios, false positive rate, detection latency, coverage of multiple attack vectors, computational efficiency, ease of integration, and documentation/validation — every one of these has a corresponding, reproducible number in [Validated Results](#-validated-results) above, not a claim.
+
+---
+
+## 👨‍💻 Author
+
+**Rahul**
+B.Tech ECE, DCRUST Murthal (2024–2028)
+Focus: GPU systems, CUDA optimization, computer vision, HPC
+
+[![GitHub](https://img.shields.io/badge/GitHub-rahulji0805-181717?style=flat-square&logo=github)](https://github.com/rahulji0805)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rahul--bhukal-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/rahul-bhukal-0708b1326)
+
+**Team:** kuchupuchu
+**Challenge:** PUSHPAK Grand Challenge 3 — Security of Drones (Techfest, IIT Bombay × VJTI, MeitY-funded)
+
+---
+
+## 🙏 Acknowledgments
+
+Built for PUSHPAK: National Mission on Drone Technology, under the Ministry of Electronics and Information Technology (MeitY), organized by Techfest IIT Bombay in collaboration with VJTI.
 
 ---
 
