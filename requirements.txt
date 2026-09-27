@@ -1,0 +1,5 @@
+pymavlink>=2.4.49
+numpy>=2.0
+pandas>=2.0
+scikit-learn>=1.8
+rich>=13.0
